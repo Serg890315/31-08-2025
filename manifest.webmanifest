@@ -1,0 +1,84 @@
+{
+  "name": "Органайзер ДПС",
+  "short_name": "Органайзер ДПС",
+  "id": "com.example.ORGANAISER1808",
+  "description": "Основные сайты общего доступа для удобства несения службы. Кроме того здесь вы найдёте калькулятор расхода топлива, возможность быстрой загрузки границ района несения службы,  фабулы административных правонарушений.",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "9b6950b015706522f9c8dedeb72fca28e16b445d48ad4b5bf19f460fdfaa0be5-ios-icon-20.png.png",
+        "sizes": "20x20"
+      },{
+        "src": "b2dbfa30872f5a475637086ab30ab049a728a272fd429afb78e59bdb41322e55-ios-icon-29.png.png",
+        "sizes": "29x29"
+      },{
+        "src": "0aaeff25a4226c2dc2401cdb03b4e7645e2a1cd444eeed752f5d735aaa1745d4-android-icon-36.png.png",
+        "sizes": "36x36"
+      },{
+        "src": "3acc5ea21faec51ee1d8e7ff7c629b062e482ab6e37a3d57f3a429c9feb65d0e-ios-icon-40.png.png",
+        "sizes": "40x40"
+      },{
+        "src": "22afa7ccb9b916626ef901e17c42f29a843f5ce0f107f142cf157cb5e3db0afe-android-icon-48.png.png",
+        "sizes": "48x48"
+      },{
+        "src": "c7747b3ff8ad219fdb60eda14c6d056153e7ba45560adb00204b3d7cb53a2981-ios-icon-50.png.png",
+        "sizes": "50x50"
+      },{
+        "src": "52142fbf84a2fd26c7f85b05944af047116f393b03ca7813938737c47d016770-ios-icon-57.png.png",
+        "sizes": "57x57"
+      },{
+        "src": "0e4bccbd96fbbf87861a869f76b1ea0204abb2373893a01c92c3580762878ede-ios-icon-58.png.png",
+        "sizes": "58x58"
+      },{
+        "src": "2c78d6f8fb13514bac028fd5bb39a5af88a94eac7fb6c31166df3ac130c598bd-ios-icon-60.png.png",
+        "sizes": "60x60"
+      },{
+        "src": "4cc5acc7bdd4ae6669a5819f744273ef5e0999300868940dfb589425f2f85ca2-android-icon-72.png.png",
+        "sizes": "72x72"
+      },{
+        "src": "4b165e486435e2ffd0d26ea2dbd62d77ff1b6483bbe44d05267018b8007b4347-ios-icon-76.png.png",
+        "sizes": "76x76"
+      },{
+        "src": "71cf67f03d8d96ca5f59358e437ce51ad8e5e3a3a381236fc524f4247b2000db-ios-icon-80.png.png",
+        "sizes": "80x80"
+      },{
+        "src": "e715e7f8c62237fc858723afec7eb85bac9b351f23bb96abfc280cb6817f5f55-ios-icon-87.png.png",
+        "sizes": "87x87"
+      },{
+        "src": "30fe6d7dfac9191517d97671eea3ae7aa23fd59f8b9f356038910a8bb4016028-android-icon-96.png.png",
+        "sizes": "96x96"
+      },{
+        "src": "a6aed8faa53ab65f675b2a389e2961517fa5ff9846c468462adfcab9b2561b22-ios-icon-100.png.png",
+        "sizes": "100x100"
+      },{
+        "src": "c5b9fee9c2e3d43e0c8ce208ecce1a4dba2ca29b67051ff067c3ceec0cbb1ad9-ios-icon-114.png.png",
+        "sizes": "114x114"
+      },{
+        "src": "3973111346d878e946cf83b84020d125be4cd05651e1b9101417602d899dd77d-ios-icon-120.png.png",
+        "sizes": "120x120"
+      },{
+        "src": "dfbd9b19644aee9af476c9ae73b0b80269170a84243e02c9cc795929159880b4-android-icon-144.png.png",
+        "sizes": "144x144"
+      },{
+        "src": "6a81afeb7bc0bd3ffd56eee6406dbedf78653dfd566b9b8d1527dcb6760a16a1-ios-icon-152.png.png",
+        "sizes": "152x152"
+      },{
+        "src": "b352a27d043bf54ce4f07e165c3bc89d156b0b1dae4661fdca0902803a107b4f-ios-icon-167.png.png",
+        "sizes": "167x167"
+      },{
+        "src": "8b168e631d778f9000ad93ec40cf0c705f35af544089aec18b8e2c9ebb0d967c-ios-icon-180.png.png",
+        "sizes": "180x180"
+      },{
+        "src": "e38b420d796f6e363cbb2294ffe1c974178b55e69b577ea78c7a531aeb88a9f9-android-icon-192.png.png",
+        "sizes": "192x192"
+      },{
+        "src": "847070d7c43010cd841221f5d01421bae6959dc24f4356634a58fc822926a395-desktop-icon-512.png.png",
+        "sizes": "512x512"
+      },{
+        "src": "ac3322b8ec762fbcf3ab13ecb9ec0c89d8ff2d08fc7ed8dfd0e84da78fa671be-ios-icon-1024.png.png",
+        "sizes": "1024x1024"
+      }]
+}
